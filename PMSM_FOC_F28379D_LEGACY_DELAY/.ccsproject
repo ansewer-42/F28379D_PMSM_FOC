@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<ccsVersion value="6.2.0"/>
+	<deviceVariant value="TMS320C28XX.TMS320F28379D"/>
+	<deviceFamily value="C2000"/>
+	<deviceEndianness value="little"/>
+	<codegenToolVersion value="18.12.5.LTS"/>
+	<isElfFormat value="false"/>
+	<linkerCommandFile value="2837x_FLASH_lnk_cpu1.cmd"/>
+	<rts value="libc.a"/>
+	<createSlaveProjects value=""/>
+	<templateProperties value="id=com.ti.common.project.core.emptyProjectWithMainTemplate,"/>
+	<filesToOpen value="main.c,"/>
+	<isTargetManual value="true"/>
+	<origin value="E:/2020/4 TMS320F28379D &amp; TI/code/legacy mode/PMSM_FOC_F28379D_LEGACY_CPU1"/>
+</projectOptions>

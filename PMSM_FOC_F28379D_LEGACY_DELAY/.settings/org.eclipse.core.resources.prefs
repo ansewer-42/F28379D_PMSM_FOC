@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//debug_cpu1/cmd/subdir_rules.mk=UTF-8
+encoding//debug_cpu1/cmd/subdir_vars.mk=UTF-8
+encoding//debug_cpu1/common/subdir_rules.mk=UTF-8
+encoding//debug_cpu1/common/subdir_vars.mk=UTF-8
+encoding//debug_cpu1/makefile=UTF-8
+encoding//debug_cpu1/objects.mk=UTF-8
+encoding//debug_cpu1/source_user/subdir_rules.mk=UTF-8
+encoding//debug_cpu1/source_user/subdir_vars.mk=UTF-8
+encoding//debug_cpu1/sources.mk=UTF-8
+encoding//include_user/ADC_Init.h=UTF-8
+encoding//include_user/EQEP_Init.h=UTF-8
+encoding//include_user/Macro_Predefine.h=UTF-8
+encoding//source_user/EQEP_Init.c=UTF-8
