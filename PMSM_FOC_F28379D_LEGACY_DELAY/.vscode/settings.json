@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "pmsm_foc_main.h": "c",
+        "adc_init.h": "c",
+        "macro_predefine.h": "c"
+    },
+    "C_Cpp.dimInactiveRegions": false
+}
